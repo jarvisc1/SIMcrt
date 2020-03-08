@@ -1,14 +1,14 @@
 Package: SIMcrt
-Title: What the Package Does (One Line, Title Case)
+Title: Simulates cluster randomised trials
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Christopher",
+           family = "Jarvis",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
+           email = "Christopher1.jarvis@gmail.com",
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: What license it uses
+Description: A range of functions for simulating different types of cluster randomised trials.
+License: MIT
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.0.2
